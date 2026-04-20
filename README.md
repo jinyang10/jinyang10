@@ -15,6 +15,7 @@ Building scalable systems & training consistently.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## ⚙️ Projects
 - **[CoreShell](https://github.com/jinyang10/CoreShell)** → OS-level shell with paging, scheduling, and memory management  
