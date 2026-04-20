@@ -1,16 +1,29 @@
 # 🏋️ Jin Yang
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Systems+Developer;Full+Stack+Builder;Always+Improving)
+
 Building scalable systems & training consistently.
 
 ## 💻 About Me
 - Computer Engineering @ York University  
 - Interested in systems, full-stack development, and performance-driven design  
-- Building real-world applications and learning by doing  
+- Building real-world applications and learning by doing
+
+## 🛠 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 
 ## ⚙️ Projects
-- **CoreShell** → OS-level shell with paging, scheduling, and memory management  
-- **Luma Health** → Full-stack healthcare platform (Next.js, TypeScript, Prisma)
-- **MaternaDB** → Java-based database system for managing structured data and queries
+- **[CoreShell](https://github.com/jinyang10/CoreShell)** → OS-level shell with paging, scheduling, and memory management  
+- **[Luma Health](https://github.com/jinyang10/Luma-Health)** → Full-stack healthcare platform (Next.js, TypeScript, Prisma)  
+- **[MaternaDB](https://github.com/jinyang10/MaternaDB)** → Java-based database system with structured data and query handling  
+
+## 🚀 Currently Building
+- Luma Health (full-stack healthcare platform)
+- Exploring AI-assisted development workflows
 
 ## 🧠 Philosophy
 - Consistency > intensity  
@@ -18,6 +31,8 @@ Building scalable systems & training consistently.
 - Build real things, not just tutorials
 
 ## 🏋️ Training
-- Lifting 5x/week  
-- Focus: strength + hypertrophy    
+- Strength + hypertrophy (5x/week)
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
