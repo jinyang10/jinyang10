@@ -1,6 +1,6 @@
 # 🏋️ Jin Yang
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Systems+Developer;Full+Stack+Builder;Always+Improving)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Builder;Scalable+Systems;Always+Improving)
 
 Building scalable systems & training consistently.
 
