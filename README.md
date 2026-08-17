@@ -1,12 +1,12 @@
 # Jin Yang
 
 
-## 💻 About Me
+## About Me
 - Computer Engineering @ York University  
 - Interested in systems, full-stack development, and performance-driven design  
 - Building real-world applications and learning by doing
 
-## 🛠 Tech Stack
+## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/%20-00599C?style=flat&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -14,12 +14,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## ⚙️ Projects
+## Projects
 - **[CoreShell](https://github.com/jinyang10/CoreShell)** → OS-level shell with paging, scheduling, and memory management  
 - **[Luma Health](https://github.com/jinyang10/Luma-Health)** → Full-stack healthcare platform (Next.js, TypeScript, Prisma)  
 - **[MaternaDB](https://github.com/jinyang10/MaternaDB)** → Java-based database system with structured data and query handling  
 
-## 🚀 Currently Building
+## Currently Building
 - Luma Health (full-stack healthcare platform)
 - Exploring AI-assisted development workflows
 
