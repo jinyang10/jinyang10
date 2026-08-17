@@ -1,8 +1,5 @@
-# 🏋️ Jin Yang
+# Jin Yang
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Builder;Scalable+Systems;Always+Improving)
-
-Building scalable systems & training consistently.
 
 ## 💻 About Me
 - Computer Engineering @ York University  
@@ -26,14 +23,5 @@ Building scalable systems & training consistently.
 - Luma Health (full-stack healthcare platform)
 - Exploring AI-assisted development workflows
 
-## 🧠 Philosophy
-- Consistency > intensity  
-- Progressive overload (in code and training)  
-- Build real things, not just tutorials
-
-## 🏋️ Training
-- Strength + hypertrophy (5x/week)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
