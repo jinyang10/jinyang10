@@ -21,7 +21,7 @@
 
 ## Currently Building
 - Luma Health (full-stack healthcare platform)
-- Exploring AI-assisted development workflows
+- Octagon Watch (UFC Fight Companion & Alert Platform)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
