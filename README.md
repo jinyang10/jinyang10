@@ -1,5 +1,6 @@
 # Jin Yang
 
+[portfolio](https://jinyang10.github.io/Portfolio/) · [linkedin](https://www.linkedin.com/in/jin-yang-aa7352301/)
 
 ## About Me
 - Computer Engineering, Specialized Honours @ York University (Toronto)
