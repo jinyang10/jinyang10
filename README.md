@@ -2,25 +2,26 @@
 
 
 ## About Me
-- Computer Engineering @ York University  
-- Interested in systems, full-stack development, and performance-driven design  
-- Building real-world applications and learning by doing
+- Computer Engineering, Specialized Honours @ York University (Toronto)
+- Interested in systems programming, databases, and full-stack development
+- Building projects I can run and explain, not just course writeups
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/%20-00599C?style=flat&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## Projects
-- **[CoreShell](https://github.com/jinyang10/CoreShell)** → OS-level shell with paging, scheduling, and memory management  
-- **[Luma Health](https://github.com/jinyang10/Luma-Health)** → Full-stack healthcare platform (Next.js, TypeScript, Prisma)  
-- **[MaternaDB](https://github.com/jinyang10/MaternaDB)** → Java-based database system with structured data and query handling  
+- **[CoreShell](https://github.com/jinyang10/CoreShell)** → Unix-like shell in C with paging, four CPU schedulers, and PCB-based process management
+- **[YU Lab Reservation](https://github.com/jinyang10/YU-Lab-Reservation)** → Java booking system with role-based pricing, an 8-state reservation lifecycle, and JUnit tests
+- **[MaternaDB](https://github.com/jinyang10/MaternaDB)** → Java/JDBC clinic app: parameterized SQL for appointments, notes, and tests on SQLite or PostgreSQL
+- **[Luma Health](https://github.com/jinyang10/Luma-Health)** → Healthcare web UI in Next.js and TypeScript (in progress)
 
 ## Currently Building
-- Luma Health (full-stack healthcare platform)
+- Luma Health (Next.js / TypeScript healthcare UI)
 - Octagon Watch (UFC Fight Companion & Alert Platform)
 
 
