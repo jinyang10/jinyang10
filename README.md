@@ -1,18 +1,6 @@
-<div align="center">
-
 # Jin Yang
 
----
-
-**Computer Engineering @ York University**  
-systems programming · databases · full-stack
-
-[portfolio](https://jinyang10.github.io/Portfolio/) ·
-[linkedin](https://www.linkedin.com/in/jin-yang-aa7352301/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
-
-</div>
+[portfolio](https://jinyang10.github.io/Portfolio/) · [linkedin](https://www.linkedin.com/in/jin-yang-aa7352301/)
 
 ## About Me
 - Computer Engineering, Specialized Honours @ York University (Toronto)
@@ -35,3 +23,6 @@ systems programming · databases · full-stack
 ## Currently Building
 - Luma Health (Next.js / TypeScript healthcare UI)
 - Octagon Watch (UFC Fight Companion & Alert Platform)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
