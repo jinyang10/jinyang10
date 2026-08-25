@@ -4,7 +4,6 @@
 ## About Me
 - Computer Engineering, Specialized Honours @ York University (Toronto)
 - Interested in systems programming, databases, and full-stack development
-- Building projects I can run and explain, not just course writeups
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
