@@ -1,6 +1,6 @@
 # Jin Yang
 
-Computer Engineering (Specialized Honours) student at York University's Lassonde School of Engineering, based in Toronto.
+Computer Engineering @ York University · Toronto
 
 Seeking software engineering and full-stack internships, with interests in full-stack development, databases, and systems programming.
 
