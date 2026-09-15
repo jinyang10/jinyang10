@@ -18,10 +18,6 @@ Full-stack development · Databases · Systems programming
 - **[CoreShell](https://github.com/jinyang10/CoreShell)** — C shell and OS simulator that schedules up to three programs using FCFS, Round Robin, SJF, or AGING. Implements demand paging, page tables, and page-fault handling.
 - **[MaternaDB](https://github.com/jinyang10/MaternaDB)** — Java/JDBC clinic application with a normalized relational schema and parameterized queries for appointments, notes, and prescribed tests. Runs on SQLite and PostgreSQL.
 
-## Hackathons
-
-- **[Expecta / SafeMothers](https://github.com/jinyang10/SafeMothers)** — Co-built an AI-assisted barcode-scanning prototype at **Cursor Hackathon Toronto (July 2026)** and presented it to judges under a one-hour deadline. Explores ingredient screening during pregnancy through a FastAPI backend and web interface.
-
 ## In Progress
 
 - **[Luma Health](https://github.com/jinyang10/Luma-Health)** — Healthcare interface built with Next.js, React, TypeScript, and Tailwind CSS. Includes responsive navigation, a mobile drawer, dark mode, and reusable doctor and department cards. Authentication, database integration, and appointment booking are planned.
