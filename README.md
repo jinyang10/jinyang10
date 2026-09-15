@@ -6,14 +6,14 @@
 - Computer Engineering, Specialized Honours @ York University (Toronto)
 - Interested in systems programming, databases, and full-stack development
 
-## Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
+## Stack
+- Java
+- C
+- TypeScript
+- SQL
+- PostgreSQL
+- Next.js
+- React
 ## Projects
 - **[CoreShell](https://github.com/jinyang10/CoreShell)** → Unix-like shell in C with paging, four CPU schedulers, and PCB-based process management
 - **[YU Lab Reservation](https://github.com/jinyang10/YU-Lab-Reservation)** → Java booking system with role-based pricing, an 8-state reservation lifecycle, and JUnit tests
