@@ -1,28 +1,27 @@
 # Jin Yang
 
-[portfolio](https://jinyang10.github.io/Portfolio/) · [linkedin](https://www.linkedin.com/in/jin-yang-aa7352301/)
+Computer Engineering (Specialized Honours) student at York University in Toronto, seeking **software engineering and full-stack internships**.
 
-## About Me
-- Computer Engineering, Specialized Honours @ York University (Toronto)
-- Interested in systems programming, databases, and full-stack development
+I'm interested in full-stack development, databases, and systems programming.
 
-## Stack
-- Java
-- C
-- TypeScript
-- SQL
-- PostgreSQL
-- Next.js
-- React
-## Projects
-- **[CoreShell](https://github.com/jinyang10/CoreShell)** → Unix-like shell in C with paging, four CPU schedulers, and PCB-based process management
-- **[YU Lab Reservation](https://github.com/jinyang10/YU-Lab-Reservation)** → Java booking system with role-based pricing, an 8-state reservation lifecycle, and JUnit tests
-- **[MaternaDB](https://github.com/jinyang10/MaternaDB)** → Java/JDBC clinic app: parameterized SQL for appointments, notes, and tests on SQLite or PostgreSQL
-- **[Luma Health](https://github.com/jinyang10/Luma-Health)** → Full-stack hospital appointment and admin system: patients book visits and manage profiles; staff run clinic operations from a role-based dashboard (Next.js / React / TypeScript; in progress)
+[Portfolio](https://jinyang10.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jin-yang-aa7352301/)
 
-## Currently Building
-- Luma Health (full-stack hospital appointment and admin system)
-- Octagon Watch (UFC Fight Companion & Alert Platform)
+## Technologies
 
+- **Languages:** Java, C, TypeScript, SQL
+- **Frameworks and databases:** React, Next.js, PostgreSQL, SQLite
 
-![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
+## Featured Projects
+
+- **[YU Lab Reservation](https://github.com/jinyang10/YU-Lab-Reservation)** — Java Swing equipment-booking app with role-based pricing, a reservation state machine, and JUnit tests.
+- **[CoreShell](https://github.com/jinyang10/CoreShell)** — C shell and OS simulator with four scheduling policies, paging, and process management.
+- **[MaternaDB](https://github.com/jinyang10/MaternaDB)** — Java/JDBC clinic application for viewing appointments, recording notes, and prescribing tests, with SQLite and PostgreSQL support.
+
+## Hackathons
+
+- **[Expecta / SafeMothers](https://github.com/jinyang10/SafeMothers)** — Team hackathon prototype built with AI assistance, exploring ingredient screening during pregnancy through a FastAPI backend and web interface.
+
+## In Progress
+
+- **[Luma Health](https://github.com/jinyang10/Luma-Health)** — Next.js, React, and TypeScript healthcare interface with responsive components and dark mode. Authentication, database integration, and appointment booking are planned.
+- **Octagon Watch** — UFC fight companion and alert platform.
