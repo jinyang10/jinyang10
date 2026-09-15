@@ -1,8 +1,8 @@
 # Jin Yang
 
-I'm a **Computer Engineering (Specialized Honours) student at York University's Lassonde School of Engineering**, based in Toronto.
+Computer Engineering (Specialized Honours) student at York University's Lassonde School of Engineering, based in Toronto.
 
-Seeking **software engineering and full-stack internships**, with interests in full-stack development, databases, and systems programming.
+Seeking software engineering and full-stack internships, with interests in full-stack development, databases, and systems programming.
 
 [Portfolio](https://jinyang10.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jin-yang-aa7352301/)
 
