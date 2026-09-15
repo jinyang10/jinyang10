@@ -2,7 +2,7 @@
 
 Computer Engineering @ York University · Toronto
 
-Seeking software engineering and full-stack internships, with interests in full-stack development, databases, and systems programming.
+Full-stack development · Databases · Systems programming
 
 [Portfolio](https://jinyang10.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/jin-yang-aa7352301/)
 
