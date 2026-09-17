@@ -23,3 +23,5 @@ Full-stack development · Databases · Systems programming
 - **[Luma Health](https://github.com/jinyang10/Luma-Health)** — Healthcare interface built with Next.js, React, TypeScript, and Tailwind CSS. Includes responsive navigation, a mobile drawer, dark mode, and reusable doctor and department cards. Authentication, database integration, and appointment booking are planned.
 - **Octagon Watch** — UFC fight companion and alert platform.
 - **AWS Cloud Practitioner preparation** — Learning AWS fundamentals.
+
+![Profile Views](https://komarev.com/ghpvc/?username=jinyang10)
