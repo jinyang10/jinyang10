@@ -24,7 +24,7 @@ Interested in accelerated computing and the systems behind AI infrastructure. Se
 
 ### Currently Learning
 
-- **Modern C++** — Building on my C and operating systems coursework.
+- **Modern C++ and Python** — My primary learning focus. I'm building on my C and operating systems coursework with C++ and learning Python for scripting, testing, and performance measurement.
 - **AWS Cloud Practitioner preparation** — Learning AWS fundamentals.
 
 ### Planned
